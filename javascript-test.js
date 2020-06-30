@@ -1,1 +1,1 @@
-alert("From plugin");
+console.log("From plugin");
